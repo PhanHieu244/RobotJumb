@@ -72,7 +72,7 @@ MonoBehaviour:
         mscorlib
     - Name: 
       Entry: 12
-      Data: 12
+      Data: 4
     - Name: 
       Entry: 7
       Data: 1|ChuongCustom.IAPSingleValueData, Assembly-CSharp
@@ -84,7 +84,7 @@ MonoBehaviour:
       Data: 0.99$
     - Name: value
       Entry: 3
-      Data: 0
+      Data: 2
     - Name: 
       Entry: 8
       Data: 
@@ -99,7 +99,7 @@ MonoBehaviour:
       Data: 1.99$
     - Name: value
       Entry: 3
-      Data: 0
+      Data: 5
     - Name: 
       Entry: 8
       Data: 
@@ -114,7 +114,7 @@ MonoBehaviour:
       Data: 4.99$
     - Name: value
       Entry: 3
-      Data: 0
+      Data: 15
     - Name: 
       Entry: 8
       Data: 
@@ -129,127 +129,7 @@ MonoBehaviour:
       Data: 9.99$
     - Name: value
       Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 5|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: mua_vang_goi_5
-    - Name: price
-      Entry: 1
-      Data: 14.99$
-    - Name: value
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 6|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: mua_vang_goi_6
-    - Name: price
-      Entry: 1
-      Data: 19.99$
-    - Name: value
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 7|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: sub_goi_1
-    - Name: price
-      Entry: 1
-      Data: 0.99$
-    - Name: value
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 8|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: sub_goi_2
-    - Name: price
-      Entry: 1
-      Data: 1.99$
-    - Name: value
-      Entry: 3
-      Data: 14
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 9|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: sub_goi_3
-    - Name: price
-      Entry: 1
-      Data: 4.99$
-    - Name: value
-      Entry: 3
-      Data: 30
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 10|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: sub_goi_4
-    - Name: price
-      Entry: 1
-      Data: 9.99$
-    - Name: value
-      Entry: 3
-      Data: 60
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 11|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: sub_goi_5
-    - Name: price
-      Entry: 1
-      Data: 19.99$
-    - Name: value
-      Entry: 3
-      Data: 120
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 12|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: sub_goi_6
-    - Name: price
-      Entry: 1
-      Data: 24.99$
-    - Name: value
-      Entry: 3
-      Data: 360
+      Data: 40
     - Name: 
       Entry: 8
       Data: 

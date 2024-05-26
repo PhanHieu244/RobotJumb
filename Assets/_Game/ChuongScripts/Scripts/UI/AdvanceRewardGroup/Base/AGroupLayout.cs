@@ -1,6 +1,5 @@
 ﻿using System.Linq;
 using Scroller;
-using Sirenix.OdinInspector.Editor;
 
 namespace Jackal
 {
