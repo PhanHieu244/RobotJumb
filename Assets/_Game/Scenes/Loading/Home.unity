@@ -1207,6 +1207,10 @@ PrefabInstance:
       propertyPath: serializationData.Prefab
       value: 
       objectReference: {fileID: 1196770773713352918, guid: e5da172d87df26e4698c584ca74b4361, type: 3}
+    - target: {fileID: 2007844135178161141, guid: e5da172d87df26e4698c584ca74b4361, type: 3}
+      propertyPath: _screenType
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4007262303413681224, guid: e5da172d87df26e4698c584ca74b4361, type: 3}
       propertyPath: m_Name
       value: Home
